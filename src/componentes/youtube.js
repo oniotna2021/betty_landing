@@ -349,10 +349,149 @@ function Youtube() {
                             </div>
                         </div>
 
+                        <div class="col-md-4 col-sm-6">
+                            <div class="card mb-5">
+                                <div class="card-header has-icon">
+                                    <i class="ti-camera text-danger" aria-hidden="true"></i>
+                                </div>
+                                <div class="card-body px-4 py-3">
+                                    <h5 class="mb-3 card-title text-dark">Alzo mi voz y canto</h5>
+                                    <iframe title="Betty Cuadrado en Youtube" width="100%" height="220"
+                                        src="https://www.youtube.com/embed/kWAOwkt7noM">
+                                    </iframe>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="col-md-4 col-sm-6">
+                            <div class="card mb-5">
+                                <div class="card-header has-icon">
+                                    <i class="ti-camera text-danger" aria-hidden="true"></i>
+                                </div>
+                                <div class="card-body px-4 py-3">
+                                    <h5 class="mb-3 card-title text-dark">Feria latinoamericana del libro</h5>
+                                    <iframe title="Betty Cuadrado en Youtube" width="100%" height="220"
+                                        src="https://www.youtube.com/embed/zwcvk4eAc94">
+                                    </iframe>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="col-md-4 col-sm-6">
+                            <div class="card mb-5">
+                                <div class="card-header has-icon">
+                                    <i class="ti-camera text-danger" aria-hidden="true"></i>
+                                </div>
+                                <div class="card-body px-4 py-3">
+                                    <h5 class="mb-3 card-title text-dark">Tengo un gato negro</h5>
+                                    <iframe title="Betty Cuadrado en Youtube" width="100%" height="220"
+                                        src="https://www.youtube.com/embed/mD1WIZakLiE">
+                                    </iframe>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="col-md-4 col-sm-6">
+                            <div class="card mb-5">
+                                <div class="card-header has-icon">
+                                    <i class="ti-camera text-danger" aria-hidden="true"></i>
+                                </div>
+                                <div class="card-body px-4 py-3">
+                                    <h5 class="mb-3 card-title text-dark">El Capitan CC en Sahagun</h5>
+                                    <iframe title="Betty Cuadrado en Youtube" width="100%" height="220"
+                                        src="https://www.youtube.com/embed/hQpY92omZ8Y">
+                                    </iframe>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="col-md-4 col-sm-6">
+                            <div class="card mb-5">
+                                <div class="card-header has-icon">
+                                    <i class="ti-camera text-danger" aria-hidden="true"></i>
+                                </div>
+                                <div class="card-body px-4 py-3">
+                                    <h5 class="mb-3 card-title text-dark">Enseñanzas del capitan</h5>
+                                    <iframe title="Betty Cuadrado en Youtube" width="100%" height="220"
+                                        src="https://www.youtube.com/embed/yD2sdoWbJ6s">
+                                    </iframe>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="col-md-4 col-sm-6">
+                            <div class="card mb-5">
+                                <div class="card-header has-icon">
+                                    <i class="ti-camera text-danger" aria-hidden="true"></i>
+                                </div>
+                                <div class="card-body px-4 py-3">
+                                    <h5 class="mb-3 card-title text-dark">El Capitan CC en Armenia</h5>
+                                    <iframe title="Betty Cuadrado en Youtube" width="100%" height="220"
+                                        src="https://www.youtube.com/embed/buJC2G5Ls_M">
+                                    </iframe>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="col-md-4 col-sm-6">
+                            <div class="card mb-5">
+                                <div class="card-header has-icon">
+                                    <i class="ti-camera text-danger" aria-hidden="true"></i>
+                                </div>
+                                <div class="card-body px-4 py-3">
+                                    <h5 class="mb-3 card-title text-dark">Mas alla de los colores</h5>
+                                    <iframe title="Betty Cuadrado en Youtube" width="100%" height="220"
+                                        src=" https://www.youtube.com/embed/z1tAdgYJDWI">
+                                    </iframe>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="col-md-4 col-sm-6">
+                            <div class="card mb-5">
+                                <div class="card-header has-icon">
+                                    <i class="ti-camera text-danger" aria-hidden="true"></i>
+                                </div>
+                                <div class="card-body px-4 py-3">
+                                    <h5 class="mb-3 card-title text-dark">Socializacion Mas alla de los colores</h5>
+                                    <iframe title="Betty Cuadrado en Youtube" width="100%" height="220"
+                                        src=" https://www.youtube.com/embed/z1tAdgYJDWI">
+                                    </iframe>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="col-md-4 col-sm-6">
+                            <div class="card mb-5">
+                                <div class="card-header has-icon">
+                                    <i class="ti-camera text-danger" aria-hidden="true"></i>
+                                </div>
+                                <div class="card-body px-4 py-3">
+                                    <h5 class="mb-3 card-title text-dark">Niños y Niñas Mas alla de los colores</h5>
+                                    <iframe title="Betty Cuadrado en Youtube" width="100%" height="220"
+                                        src="https://www.youtube.com/embed/eptHN2mqyf0">
+                                    </iframe>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="col-md-4 col-sm-6">
+                            <div class="card mb-5">
+                                <div class="card-header has-icon">
+                                    <i class="ti-camera text-danger" aria-hidden="true"></i>
+                                </div>
+                                <div class="card-body px-4 py-3">
+                                    <h5 class="mb-3 card-title text-dark">Asi es mi pelo</h5>
+                                    <iframe title="Betty Cuadrado en Youtube" width="100%" height="220"
+                                        src="https://www.youtube.com/embed/za_6fi-4xbI">
+                                    </iframe>
+                                </div>
+                            </div>
+                        </div>
+
                     </div>
                 </div>
             </section>
-
         </div>
     );
 }
