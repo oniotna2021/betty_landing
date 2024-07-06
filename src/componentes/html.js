@@ -291,7 +291,202 @@ function Home() {
                             </div>
                         </div>
 
+                        <div class="col-md-4 col-sm-6">
+                            <div class="card mb-5">
+                                <div class="card-header has-icon">
+                                    <i class="ti-camera text-danger" aria-hidden="true"></i>
+                                </div>
+                                <div class="card-body px-4 py-3">
+                                    <h5 class="mb-3 card-title text-dark">El Capitan CC animado</h5>
+                                    <iframe width="100%" height="220"
+                                        src="https://www.youtube.com/embed/Zt3JXpOE6-Q">
+                                    </iframe>
+                                </div>
+                            </div>
+                        </div>
+
                         
+                        <div class="col-md-4 col-sm-6">
+                            <div class="card mb-5">
+                                <div class="card-header has-icon">
+                                    <i class="ti-camera text-danger" aria-hidden="true"></i>
+                                </div>
+                                <div class="card-body px-4 py-3">
+                                    <h5 class="mb-3 card-title text-dark">El cuidado de los animales</h5>
+                                    <iframe width="100%" height="220"
+                                        src="https://www.youtube.com/embed/xUHEV4HA1kY">
+                                    </iframe>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="col-md-4 col-sm-6">
+                            <div class="card mb-5">
+                                <div class="card-header has-icon">
+                                    <i class="ti-camera text-danger" aria-hidden="true"></i>
+                                </div>
+                                <div class="card-body px-4 py-3">
+                                    <h5 class="mb-3 card-title text-dark">El manejo de las basuras</h5>
+                                    <iframe width="100%" height="220"
+                                        src="https://www.youtube.com/embed/2BASE29OoJY">
+                                    </iframe>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="col-md-4 col-sm-6">
+                            <div class="card mb-5">
+                                <div class="card-header has-icon">
+                                    <i class="ti-camera text-danger" aria-hidden="true"></i>
+                                </div>
+                                <div class="card-body px-4 py-3">
+                                    <h5 class="mb-3 card-title text-dark">El cuidado de los niños</h5>
+                                    <iframe width="100%" height="220"
+                                        src="https://www.youtube.com/embed/evu9ZHoIUbQ">
+                                    </iframe>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="col-md-4 col-sm-6">
+                            <div class="card mb-5">
+                                <div class="card-header has-icon">
+                                    <i class="ti-camera text-danger" aria-hidden="true"></i>
+                                </div>
+                                <div class="card-body px-4 py-3">
+                                    <h5 class="mb-3 card-title text-dark">El cuidado de los ancianos</h5>
+                                    <iframe width="100%" height="220"
+                                        src="https://www.youtube.com/embed/Jn02siLNPbs">
+                                    </iframe>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="col-md-4 col-sm-6">
+                            <div class="card mb-5">
+                                <div class="card-header has-icon">
+                                    <i class="ti-camera text-danger" aria-hidden="true"></i>
+                                </div>
+                                <div class="card-body px-4 py-3">
+                                    <h5 class="mb-3 card-title text-dark">El cuidado de los ancianos</h5>
+                                    <iframe width="100%" height="220"
+                                        src="https://www.youtube.com/embed/h7qKI9--39Y">
+                                    </iframe>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="col-md-4 col-sm-6">
+                            <div class="card mb-5">
+                                <div class="card-header has-icon">
+                                    <i class="ti-camera text-danger" aria-hidden="true"></i>
+                                </div>
+                                <div class="card-body px-4 py-3">
+                                    <h5 class="mb-3 card-title text-dark">El Capitan CC en las Palmeras</h5>
+                                    <iframe width="100%" height="220"
+                                        src=" https://www.youtube.com/embed/4f5zm3dlWE4">
+                                    </iframe>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="col-md-4 col-sm-6">
+                            <div class="card mb-5">
+                                <div class="card-header has-icon">
+                                    <i class="ti-camera text-danger" aria-hidden="true"></i>
+                                </div>
+                                <div class="card-body px-4 py-3">
+                                    <h5 class="mb-3 card-title text-dark">El uso correcto de las canecas</h5>
+                                    <iframe width="100%" height="220"
+                                        src="https://www.youtube.com/embed/Y-_X_Hv6Onc">
+                                    </iframe>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="col-md-4 col-sm-6">
+                            <div class="card mb-5">
+                                <div class="card-header has-icon">
+                                    <i class="ti-camera text-danger" aria-hidden="true"></i>
+                                </div>
+                                <div class="card-body px-4 py-3">
+                                    <h5 class="mb-3 card-title text-dark">La ronda de los peques</h5>
+                                    <iframe width="100%" height="220"
+                                        src="https://www.youtube.com/embed/C6jnP2CSDuU">
+                                    </iframe>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="col-md-4 col-sm-6">
+                            <div class="card mb-5">
+                                <div class="card-header has-icon">
+                                    <i class="ti-camera text-danger" aria-hidden="true"></i>
+                                </div>
+                                <div class="card-body px-4 py-3">
+                                    <h5 class="mb-3 card-title text-dark">La Chambrana radio</h5>
+                                    <iframe width="100%" height="220"
+                                        src="https://www.youtube.com/embed/AgqulQFVmBI">
+                                    </iframe>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="col-md-4 col-sm-6">
+                            <div class="card mb-5">
+                                <div class="card-header has-icon">
+                                    <i class="ti-camera text-danger" aria-hidden="true"></i>
+                                </div>
+                                <div class="card-body px-4 py-3">
+                                    <h5 class="mb-3 card-title text-dark">La Ronda de los peques</h5>
+                                    <iframe width="100%" height="220"
+                                        src="https://www.youtube.com/embed/-zsJgkQvAts">
+                                    </iframe>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="col-md-4 col-sm-6">
+                            <div class="card mb-5">
+                                <div class="card-header has-icon">
+                                    <i class="ti-camera text-danger" aria-hidden="true"></i>
+                                </div>
+                                <div class="card-body px-4 py-3">
+                                    <h5 class="mb-3 card-title text-dark">La ronda de los peques</h5>
+                                    <iframe width="100%" height="220"
+                                        src="https://www.youtube.com/embed/Fz8ryblZsj0">
+                                    </iframe>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="col-md-4 col-sm-6">
+                            <div class="card mb-5">
+                                <div class="card-header has-icon">
+                                    <i class="ti-camera text-danger" aria-hidden="true"></i>
+                                </div>
+                                <div class="card-body px-4 py-3">
+                                    <h5 class="mb-3 card-title text-dark">La ronda de los peques</h5>
+                                    <iframe width="100%" height="220"
+                                        src="https://www.youtube.com/embed/oz1BUmkWqMU">
+                                    </iframe>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="col-md-4 col-sm-6">
+                            <div class="card mb-5">
+                                <div class="card-header has-icon">
+                                    <i class="ti-camera text-danger" aria-hidden="true"></i>
+                                </div>
+                                <div class="card-body px-4 py-3">
+                                    <h5 class="mb-3 card-title text-dark">La ronda de los peques</h5>
+                                    <iframe width="100%" height="220"
+                                        src="https://www.youtube.com/embed/TDJ7iK-IJb0">
+                                    </iframe>
+                                </div>
+                            </div>
+                        </div>
 
                     </div>
                 </div>
