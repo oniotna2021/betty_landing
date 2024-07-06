@@ -2,6 +2,7 @@ import './App.css';
 import { Routes, Route, BrowserRouter } from "react-router-dom";
 
 import Html from "./componentes/html"
+import Youtube from "./componentes/youtube"
 
 function App() {
   return (
@@ -9,7 +10,8 @@ function App() {
       <BrowserRouter>
         <Routes>
 
-          <Route exact path="/html" element={<Html />} />
+          <Route exact path="/" element={<Html />} />
+          <Route exact path="/youtube" element={<Youtube />} />
           
         </Routes>
       </BrowserRouter>
