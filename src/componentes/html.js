@@ -3,9 +3,7 @@ function Home() {
 
     return (
         <div className="App">
-
-            <a href="components.html" class="btn btn-primary btn-component" data-spy="affix" data-offset-top="600"><i class="ti-shift-left-alt"></i> Components</a>
-
+            
             <header class="header">
                 <div class="container">
                     <ul class="social-icons pt-3">
@@ -24,7 +22,7 @@ function Home() {
                 </div>
             </header>
 
-            <nav class="navbar sticky-top navbar-expand-lg navbar-expand-sm navbar-light bg-white" data-spy="affix" data-offset-top="510">
+            <nav class="navbar sticky-top navbar-expand-lg navbar-light bg-white" data-spy="affix" data-offset-top="510">
                 <div class="container">
                     <button class="navbar-toggler ml-auto" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
                         <span class="navbar-toggler-icon"></span>
