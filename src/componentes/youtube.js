@@ -44,8 +44,8 @@ function Youtube() {
                         <ul class="navbar-nav brand">
                             <img src="assets/imgs/avatar.jpg" alt="" class="brand-img" />
                             <li class="brand-txt">
-                                <h5 class="brand-title">John Doe</h5>
-                                <div class="brand-subtitle">Web Designer | Developer</div>
+                                <h5 class="brand-title">Betty Cuadrado</h5>
+                                <div class="brand-subtitle">Docente | Escritora | Musico</div>
                             </li>
                         </ul>
                         <ul class="navbar-nav ml-auto">
@@ -53,7 +53,7 @@ function Youtube() {
                                 <a href="/youtube" class="nav-link">Youtube</a>
                             </li>
                             <li class="nav-item">
-                                <a href="#blog" class="nav-link">Blog</a>
+                                <a href="/galeria" class="nav-link">Galeria</a>
                             </li>
                             <li class="nav-item last-item">
                                 <a href="#contact" class="nav-link">Contact</a>
@@ -152,7 +152,7 @@ function Youtube() {
                             </div>
                         </div>
 
-                        
+
                         <div class="col-md-4 col-sm-6">
                             <div class="card mb-5">
                                 <div class="card-header has-icon">
@@ -492,6 +492,14 @@ function Youtube() {
                     </div>
                 </div>
             </section>
+
+            <footer class="footer py-3">
+                <div class="container">
+                    <p class="small mb-0 text-light">
+                        &copy; <script>document.write(new Date().getFullYear())</script> Todos los derechos Betty Cuadrado / Diseño Antonio Mogollon <a href="http://servicioinformatico.co" target="_blank"><span class="text-danger" title="Bootstrap 4 Themes and Dashboards">servicioinformatico.co</span></a>
+                    </p>
+                </div>
+            </footer>
         </div>
     );
 }

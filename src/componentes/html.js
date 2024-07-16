@@ -3,7 +3,7 @@ function Home() {
 
     return (
         <div className="App">
-            
+
             <header class="header">
                 <div class="container">
                     <ul class="social-icons pt-3">
@@ -42,8 +42,8 @@ function Home() {
                         <ul class="navbar-nav brand">
                             <img src="assets/imgs/avatar.jpg" alt="" class="brand-img" />
                             <li class="brand-txt">
-                                <h5 class="brand-title">John Doe</h5>
-                                <div class="brand-subtitle">Web Designer | Developer</div>
+                                <h5 class="brand-title">Betty Cuadrado</h5>
+                                <div class="brand-subtitle">Docente | Escritora | Musico</div>
                             </li>
                         </ul>
                         <ul class="navbar-nav ml-auto">
@@ -51,7 +51,7 @@ function Home() {
                                 <a href="/youtube" class="nav-link">Youtube</a>
                             </li>
                             <li class="nav-item">
-                                <a href="#blog" class="nav-link">Blog</a>
+                                <a href="/galeria.html" class="nav-link">Galeria</a>
                             </li>
                             <li class="nav-item last-item">
                                 <a href="#contact" class="nav-link">Contact</a>
@@ -135,26 +135,99 @@ function Home() {
                 <div class="container">
                     <h2 class="mb-5"><span class="text-danger">HV</span> Resumen</h2>
                     <div class="row">
+
                         <div class="col-md-6 col-lg-4">
                             <div class="card">
+
                                 <div class="card-header">
                                     <div class="mt-2">
-                                        <h4>Expertise</h4>
+                                        <h4>Experiencia</h4>
                                         <span class="line"></span>
                                     </div>
                                 </div>
+
                                 <div class="card-body">
-                                    <h6 class="title text-danger">2017 - Present</h6>
-                                    <p>UX Developer</p>
-                                    <p class="subtitle">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nostrum recusandae, cupiditate ullam dolor ratione repellendus.aliquid repudiandae saepe!.</p>
+                                    <h6 class="title text-danger">2019</h6>
+                                    <p>CONVOCATORIA ESTIMULO Y CONCERTACIÓN 2019 DEL IPCC
+                                        Con el proyecto CELEBRANDO MIS RAÍCES, MI IDENTIDAD</p>
+                                    <p class="subtitle">proyecto CELEBRANDO MIS RAÍCES, MI IDENTIDAD, donde se desarrolla la
+                                        autoestima, el Autoconcepto y la autoimagen en niños y niñas afro, de 4 a 12 años, a través
+                                        de actividades de reflexión, utilizando como herramientas la música y la literatura infantil.
+                                        Todo esto condensado en una cartilla y una producción musical de 5 canciones.</p>
                                     <hr />
-                                    <h6 class="title text-danger">2016 - 2017</h6>
-                                    <p>Front-end Developer</p>
-                                    <p class="subtitle">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nostrum recusandae, cupiditate ullam dolor ratione repellendus.aliquid repudiandae saepe!.</p>
+                                </div>
+
+                                <div class="card-body">
+                                    <h6 class="title text-danger">2020</h6>
+                                    <p>CONVOCATORIA ESTIMULALTE 2020 DEL IPCC Con el proyecto
+                                        CELEBRANDO MIS RAÍCES, MI IDENTIDAD</p>
+                                    <p class="subtitle">Premio por canción inédita</p>
+                                    <a href="https://www.facebook.com/1032694866926611/videos/479147516135116 " target="_blank" rel="nonreferers" >facebook video</a>
+                                    <p>  Aparece en la antología URDIMBRES: LAS MUJERES DEL CARIBE NARRAN SU
+                                        TERRITORIO, del Ministerio de Cultura. – Siendo escogida para mostrar poesías infantiles,
+                                        entre muchas mujeres que se presentaron. </p>
+                                    <a href="https://mincultura.gov.co/prensa/noticias/Paginas/MinCultura-lanza-%E2%80%98Urdimbres%E2%80%99-en-Cartagena.aspx?fbclid=IwAR1_Bd3isCQSDu8Jz5DXuVJx_aDedE4fdEHHBKVKloDzUrcbgjQygheZcvw " target="_blank" rel="nonreferers" >Enlace Mincultura</a>
                                     <hr />
-                                    <h6 class="title text-danger">2015 - 2016</h6>
-                                    <p>UX Designer</p>
-                                    <p class="subtitle">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nostrum recusandae, cupiditate ullam dolor ratione repellendus.aliquid repudiandae saepe!.</p>
+                                </div>
+
+
+                            </div>
+                        </div>
+
+                        <div class="col-md-6 col-lg-4">
+                            <div class="card">
+
+                                <div class="card-header">
+                                    <div class="mt-2">
+                                        <h4>Experiencia</h4>
+                                        <span class="line"></span>
+                                    </div>
+                                </div>
+
+                                <div class="card-body">
+                                    <h6 class="title text-danger">2021</h6>
+                                    <p>Ganadora de la convocatotia de Circulacion Cultural de IPCC con el
+                                        proyecto APRENDIENDO CULTURA CIUDADANA CON EL CAPITAN CC Y SUS AMIGOS</p>
+                                    <p class="subtitle">Utilizando los títeres, canciones, anecdotas cotidiana y cuentos como herramientas
+                                        didacticas para enseñar y reflexionar con niños/as y padres de familia sobre la cultura
+                                        ciudadana y la sana convivencia.
+                                        En este mismo año, recibió una mención de honor del concejo de Cartagena, como miembro
+                                        honorable de la comunidad cartagenero</p>
+                                    <p class="subtitle"> Es productora del programa infantil que se presenta en redes sociales: facebook y youtube,
+                                        en el canal de LA CHAMBRANA RADIO, con Judith Cartagena Ospina, Llamado LA
+                                        RONDA DE LOS PEQUES. Es un espacio de reflexión y aprendizaje, donde niños y niñas
+                                        presentan sus talentos, su amor por la lectura, la escritura, las artes en general y a la
+                                        naturaleza. Esto utilizando los títeres.</p>
+                                    <hr />
+                                </div>
+
+                            </div>
+                        </div>
+
+                        <div class="col-md-6 col-lg-4">
+                            <div class="card">
+
+                                <div class="card-header">
+                                    <div class="mt-2">
+                                        <h4>Experiencia</h4>
+                                        <span class="line"></span>
+                                    </div>
+                                </div>
+
+                                <div class="card-body">
+                                    <h6 class="title text-danger">2022</h6>
+                                    <p class="subtitle">Lanza su
+                                        obra de literatura infantil llamada MÁS ALLÁ DE LOS COLORES, un compilado de poesías
+                                        para niños/as en donde pone de manifiesto las emociones y los sentires de los más
+                                        pequeños, para ayudarlos a reflexionar en temas como la identidad, la autoestima, el
+                                        desarrollo de la libre personalidad, entre otros. Cada poesía tiene una imagen para colorear.
+                                        Este mismo año, gana la convocatoria de circulación 2022 con esta obra literaria, dándola
+                                        a conocer los municipios del departamento del Atlántico, ciudades como Bogotá,
+                                        Facatativá, Salento, Armenia y Pereira.</p>
+                                    <p> Ganadora de la convocatoria IMPULSO 2022, con la propuesta
+                                        llamada ALZO MI VOZ Y CANTO, donde niños y niñas de bibliotecas y centros culturales
+                                        pudieron alzar su voz al son de canciones interpretadas por ellos mismos. </p>
+                                    <hr />
                                 </div>
                             </div>
                         </div>
@@ -163,23 +236,65 @@ function Home() {
                             <div class="card">
                                 <div class="card-header">
                                     <div class="mt-2">
-                                        <h4>Education</h4>
+                                        <h4>Educacion</h4>
                                         <span class="line"></span>
                                     </div>
                                 </div>
                                 <div class="card-body">
-                                    <h6 class="title text-danger">2017 - Present</h6>
-                                    <p>B.E Computer Engineering</p>
-                                    <p class="subtitle">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Error corrupti recusandae obcaecati odit repellat ducimus cum, minus tempora aperiam at.</p>
+                                    <h6 class="title text-danger">2012</h6>
+                                    <p>UNIVERSITARIA</p>
+                                    <p class="subtitle">fundación Universitaria Los Libertadores, Cartagena.
+                                        Pedagogía de la Lúdica y Desarrollo Cultural</p>
                                     <hr />
-                                    <h6 class="title text-danger">2016 - 2017</h6>
-                                    <p>Diploma in Computer Engineering</p>
-                                    <p class="subtitle">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eos, id officiis quas placeat quia voluptas dolorum rem animi nostrum quae.aliquid repudiandae saepe!.</p>
+                                    <h6 class="title text-danger">1993</h6>
+                                    <p>UNIVERSITARIA</p>
+                                    <p class="subtitle">Universidad San Buenaventura, Cartagena.
+                                        Licenciatura en educación Preescolar</p>
                                     <hr />
-                                    <h6 class="title text-danger">2015 - 2016</h6>
-                                    <p>High School Degree</p>
-                                    <p class="subtitle">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nostrum recusandae, cupiditate ullam dolor ratione repellendus.aliquid repudiandae saepe!.</p>
+                                    <h6 class="title text-danger">1989</h6>
+                                    <p>UNIVERSITARIA</p>
+                                    <p class="subtitle">Colegio Mayor de Bolívar, Cartagena.
+                                        Tecnóloga en Educación Preescolar</p>
+                                </div>
 
+                            </div>
+                        </div>
+
+                        <div class="col-md-6 col-lg-4">
+                            <div class="card">
+                                <div class="card-header">
+                                    <div class="mt-2">
+                                        <h4>Talleres, diplomados, seminarios y cursos</h4>
+                                        <span class="line"></span>
+                                    </div>
+                                </div>
+                                <div class="card-body">
+                                    <p>- Curso de solfeo y dirección coral, ESCUELA MUSICAL DON BOSCO, 1990.
+                                        Cartagena.
+                                    </p>
+                                    <p>- Seminario-taller: construcción de un sistema de evaluación. Departamento de
+                                        bienestar y vivienda división colegios Navales, 1996. Cartagena.
+                                    </p>
+                                    <p>- Proyecto de capacitación en Pedagogía Especial, Universidad de Cartagena,
+                                        facultad de ciencias sociales y educación, 1998. Cartagena.
+                                    </p>
+                                    <p>- Diplomado en educación y desarrollo psicoafectivo, Universidad del Norte, 2003.
+                                        Cartagena.
+                                    </p>
+                                    <p>- Diploma</p>
+                                    <p>- Lorem</p>
+                                    <p>- Lorem</p>
+                                    <p>- Diploma</p>
+                                    <p>- Lorem</p>
+                                    <p>- Lorem</p>
+                                    <p>- Diploma</p>
+                                    <p>- Lorem</p>
+                                    <p>- Lorem</p>
+                                    <p>- Diploma</p>
+                                    <p>- Lorem</p>
+                                    <p>- Lorem</p>
+                                    <p>- Diploma</p>
+                                    <p>- Lorem</p>
                                 </div>
                             </div>
                         </div>
@@ -188,23 +303,29 @@ function Home() {
                             <div class="card">
                                 <div class="card-header">
                                     <div class="mt-2">
-                                        <h4>Education</h4>
+                                        <h4>Talleres, diplomados, seminarios y cursos</h4>
                                         <span class="line"></span>
                                     </div>
                                 </div>
                                 <div class="card-body">
-                                    <h6 class="title text-danger">2017 - Present</h6>
-                                    <p>B.E Computer Engineering</p>
-                                    <p class="subtitle">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Error corrupti recusandae obcaecati odit repellat ducimus cum, minus tempora aperiam at.</p>
-                                    <hr />
-                                    <h6 class="title text-danger">2016 - 2017</h6>
-                                    <p>Diploma in Computer Engineering</p>
-                                    <p class="subtitle">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eos, id officiis quas placeat quia voluptas dolorum rem animi nostrum quae.aliquid repudiandae saepe!.</p>
-                                    <hr />
-                                    <h6 class="title text-danger">2015 - 2016</h6>
-                                    <p>High School Degree</p>
-                                    <p class="subtitle">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nostrum recusandae, cupiditate ullam dolor ratione repellendus.aliquid repudiandae saepe!.</p>
-
+                                    <p>- Lorem</p>
+                                    <p>- Diploma</p>
+                                    <p>- Lorem</p>
+                                    <p>- Lorem</p>
+                                    <p>- Diploma</p>
+                                    <p>- Lorem</p>
+                                    <p>- Lorem</p>
+                                    <p>- Diploma</p>
+                                    <p>- Lorem</p>
+                                    <p>- Lorem</p>
+                                    <p>- Diploma</p>
+                                    <p>- Lorem</p>
+                                    <p>- Lorem</p>
+                                    <p>- Diploma</p>
+                                    <p>- Lorem</p>
+                                    <p>- Lorem</p>
+                                    <p>- Diploma</p>
+                                    <p>- Lorem</p>
                                 </div>
                             </div>
                         </div>
@@ -212,6 +333,14 @@ function Home() {
                     </div>
                 </div>
             </div>
+
+            <footer class="footer py-3">
+                <div class="container">
+                    <p class="small mb-0 text-light">
+                        &copy; <script>document.write(new Date().getFullYear())</script> Todos los derechos Betty Cuadrado / Diseño Antonio Mogollon <a href="http://servicioinformatico.co" target="_blank"><span class="text-danger" title="Bootstrap 4 Themes and Dashboards">servicioinformatico.co</span></a>
+                    </p>
+                </div>
+            </footer>
 
         </div>
     );
