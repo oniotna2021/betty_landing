@@ -281,20 +281,20 @@ function Home() {
                                     <p>- Diplomado en educación y desarrollo psicoafectivo, Universidad del Norte, 2003.
                                         Cartagena.
                                     </p>
-                                    <p>- Diploma</p>
-                                    <p>- Lorem</p>
-                                    <p>- Lorem</p>
-                                    <p>- Diploma</p>
-                                    <p>- Lorem</p>
-                                    <p>- Lorem</p>
-                                    <p>- Diploma</p>
-                                    <p>- Lorem</p>
-                                    <p>- Lorem</p>
-                                    <p>- Diploma</p>
-                                    <p>- Lorem</p>
-                                    <p>- Lorem</p>
-                                    <p>- Diploma</p>
-                                    <p>- Lorem</p>
+                                    <p>- Seminario-taller: la creatividad en los procesos del pensamiento, Ediarte S.A, 2004.
+                                        Cartagena.
+                                    </p>
+                                    <p>- Programa Intel, MEN e Intel, 2007. Cartagena.
+                                    </p>
+                                    <p>- Seminario-taller: signos neurológicos blandos como predictores clínicos de déficit
+                                        en el aprendizaje en la etapa escolar. 2008. Cartagena.
+                                    </p>
+                                    <p>- Seminario-taller: Colombia por la primera infancia, ICBF, 2007. Cartagena.
+                                    </p>
+                                    <p>- Curso de escritura creative con la Universidad Javeriana. Año 2021.
+                                    </p>
+                                    <p>- VTBE con el Ministerio de Educación para el manejo de Bibliotecas Escolares. 2022.
+                                    </p>
                                 </div>
                             </div>
                         </div>
@@ -308,24 +308,31 @@ function Home() {
                                     </div>
                                 </div>
                                 <div class="card-body">
-                                    <p>- Lorem</p>
-                                    <p>- Diploma</p>
-                                    <p>- Lorem</p>
-                                    <p>- Lorem</p>
-                                    <p>- Diploma</p>
-                                    <p>- Lorem</p>
-                                    <p>- Lorem</p>
-                                    <p>- Diploma</p>
-                                    <p>- Lorem</p>
-                                    <p>- Lorem</p>
-                                    <p>- Diploma</p>
-                                    <p>- Lorem</p>
-                                    <p>- Lorem</p>
-                                    <p>- Diploma</p>
-                                    <p>- Lorem</p>
-                                    <p>- Lorem</p>
-                                    <p>- Diploma</p>
-                                    <p>- Lorem</p>
+                                    <p>- Proyecto formación de multiplicadores para el fortalecimiento de valores para la
+                                        prevención del abuso y la explotación sexual infantil, Alcaldía Mayor de Cartagena,
+                                        2007. Cartagena.
+                                    </p>
+                                    <p>- Encuentro de rutas, un proyecto de cambio, Universidad Industrial de Santander,
+                                        2009. Cartagena.
+                                    </p>
+                                    <p>- Formación en habilidades para la vida: Fe y Alegría Internacional, 2010. Cartagena.
+                                    </p>
+                                    <p>- Diplomado en informática en la educación: Universidad Industrial de Santander,
+                                        2010. Cartagena.
+                                    </p>
+                                    <p>- Programa de educación y desarrollo psicoafectivo: Universidad del Norte, 2010.
+                                        Cartagena.
+                                    </p>
+                                    <p>- Seminario-taller de metodologías flexibles: Secretaría de Educación Distrital de
+                                        Cartagena y la Corporación de infancia y desarrollo, 2011. Cartagena.
+                                    </p>
+                                    <p>- Seminario-taller sobre artística “microenseñanza como herramienta para la
+                                        formación de artistas formadores”, Instituto de Patrimonio y Cultura de Cartagena
+                                        (IPCC), 2019. Cartagena.
+                                    </p>
+                                    <p>- Gestión de riesgos del patrimonio cultural. 2022.
+                                    </p>
+                                    <p>- Entre otros. </p>
                                 </div>
                             </div>
                         </div>
