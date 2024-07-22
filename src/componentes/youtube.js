@@ -4,7 +4,7 @@ function Youtube() {
     return (
         <div className="App">
 
-            <a href="components.html" class="btn btn-primary btn-component" data-spy="affix" data-offset-top="600"><i class="ti-shift-left-alt"></i> Components</a>
+            {/* <a href="components.html" class="btn btn-primary btn-component" data-spy="affix" data-offset-top="600"><i class="ti-shift-left-alt"></i> Components</a> */}
 
             <header class="header">
                 <div class="container">
